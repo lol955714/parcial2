@@ -1,0 +1,10 @@
+body {background-color: white;}
+li{display: inline;background: white;width: 10000px;}
+nav{text-align: center;}
+header{text-align: center;}
+p{text-align: justify;padding-left: 50px;}
+aside{float: left;width: 200px;padding-right: 50px;}
+footer{clear: both;text-align: center;padding-top: 100px;}
+cartaPresentacion{background: black;}
+nombre{background-color: white;}
+contacto{background-color: white}

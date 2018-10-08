@@ -1,0 +1,4 @@
+User-Agent: * 
+Disallow: /wp- 
+Allow: /wp-content/uploads/ 
+Sitemap:http://www.jugueteartesanal.ga/sitemap.xml

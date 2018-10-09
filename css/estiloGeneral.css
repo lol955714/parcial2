@@ -3,15 +3,14 @@ body {background-image:url(/media/imagen/fondo.jpg);
       background-attachment: fixed;
 	  			
 	}
-li{display: inline;background: white;width: 10000px;}
+li{display: inline;width: 10000px;}
 nav{text-align: center;}
-header{text-align: center;background-image: url("/media/imagen/fondo1.jpg");color: white;}
+header{text-align: center;background-image: url("/media/imagen/fondo1.jpg");}
 p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
-aside{float: left;width: 300px;padding-right: 50px;padding-right: 50px;background-color: yellow;}
-aside[name="banner"]{float: right;background-color: gray;}
+aside{float: left;width: 300px;padding-right: 50px;padding-right: 50px;}
+aside[name="banner"]{float: right;;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{background-color: blue;text-align: justify;}
 cartaPresentacion{background: black;}
-strong{background-color: gray;}
 nombre{background-color: white;}
 contacto{background-color: white;}

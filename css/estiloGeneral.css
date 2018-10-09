@@ -1,9 +1,9 @@
 body {background-image:url(/media/imagen/fondo.jpg);}
 nav{text-align: center;}
-p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
+p{text-align: justify;padding-left: 50px;padding-right: 50px;}
 aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
-section{text-align: justify;clear: left;}
+section{text-align: justify;clear: left;padding-top: 50px;}
 div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334px; height: 150px;}
 div[name="video"]{text-align: center;}
 

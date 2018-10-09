@@ -1,13 +1,8 @@
-body {background-image:url(/media/imagen/fondo.jpg);
-      background-size: 100% 100%;
-      background-attachment: fixed;
-	}
-li{display: inline;width: 10000px;}
+body {background-image:url(/media/imagen/fondo.jpg);background-size: 100% 100%;background-attachment: fixed;}
 nav{text-align: center;}
-header{text-align: center;background-image: url("/media/imagen/fondo1.jpg");}
+header{text-align: center; clear: both;background-image: url(/media/imagen/banner2.png);}
 p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
-aside{float: left;width: 300px;padding-right: 50px;padding-right: 50px;}
-aside[name="banner"]{float: right;;}
+aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;}
 cartaPresentacion{background: black;}

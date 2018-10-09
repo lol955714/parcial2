@@ -4,7 +4,7 @@ p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
 aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;clear: left;}
-div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 100%; height: 100%;}
+div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334px; height: 150px;}
 
 
 * {margin:0px; padding:0px;}

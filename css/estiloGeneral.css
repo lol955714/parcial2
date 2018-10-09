@@ -4,7 +4,7 @@ nav{text-align: center;}
 header{text-align: center;}
 p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
 aside{float: left;width: 300px;padding-right: 50px;padding-right: 50px}
-aside[name="banner"]{float: right;}
+aside[name="banner"]{float: right;width: 50%;height: 50%;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 cartaPresentacion{background: black;}
 nombre{background-color: white;}

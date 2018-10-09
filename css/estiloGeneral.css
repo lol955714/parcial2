@@ -1,13 +1,19 @@
-body {background-color: gray;}
-li{display: inline;background: white;width: 10000px;}
+body {background-image:url(/media/imagen/fondo.jpg);background-size: 100% 100%;background-attachment: fixed;}
 nav{text-align: center;}
-header{text-align: center;background-image: url("/media/imagen/fondo1.jpg");color: white;}
 p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
-aside{float: left;width: 300px;padding-right: 50px;padding-right: 50px;background-color: yellow;}
-aside[name="banner"]{float: right;background-color: gray;}
+aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
-section{background-color: blue;text-align: justify;}
-cartaPresentacion{background: black;}
-strong{background-color: gray}
-nombre{background-color: white;}
-contacto{background-color: white}
+section{text-align: justify;clear: left;}
+div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334px; height: 150px;}
+div[name="video"]{text-align: center;}
+
+			
+			#header {margin:left; width:2000px; font-family:Arial, Helvetica, sans-serif;}
+			ul, ol {list-style:none;}
+			.nav > li {float:left; }
+			.nav li a {background-color:#000; color:#fff; text-decoration:none; padding:10px 12px; display:block;}
+			.nav li a:hover {background-color:#434343;}
+			.nav li ul {display:none; position:absolute; min-width:240px;}
+			.nav li:hover > ul {display:block;}
+			.nav li ul li {position:relative;}
+			.nav li ul li ul {	right:0px; top:0px;}

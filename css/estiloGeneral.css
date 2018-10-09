@@ -8,6 +8,6 @@ aside[name="banner"]{float: right;background-color: gray;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{background-color: blue;text-align: justify;}
 cartaPresentacion{background: black;}
-strong{background-color: gray}
+strong{background-color: gray;}
 nombre{background-color: white;}
-contacto{background-color: white}
+contacto{background-color: white;}

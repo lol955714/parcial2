@@ -1,6 +1,6 @@
 body {background-image:url(/media/imagen/fondo.jpg);background-size: 100% 100%;background-attachment: fixed;}
 nav{text-align: center;}
-header{text-align: center; clear: both;background-image: url(/media/imagen/banner2.png);width: 1350px;height:150px; }
+header{text-align: center; clear: both;background-image: url(/media/imagen/banner2.png);background-size: 100% 100%; }
 p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
 aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}

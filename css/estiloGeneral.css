@@ -13,7 +13,7 @@ div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334
 			.nav > li {float:left; }
 			.nav li a {background-color:#000; color:#fff; text-decoration:none; padding:10px 12px; display:block;}
 			.nav li a:hover {background-color:#434343;}
-			.nav li ul {display:none; position:absolute; min-width:240px;}
+			.nav li ul {display:none; position:absolute; min-width:540px;}
 			.nav li:hover > ul {display:block;}
 			.nav li ul li {position:relative;}
-			.nav li ul li ul {	right:-140px; top:0px;}
+			.nav li ul li ul {	right:0px; top:0px;}

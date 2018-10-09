@@ -7,7 +7,7 @@ section{text-align: justify;clear: both;}
 cartaPresentacion{background: black;}
 nombre{background-color: white;}
 contacto{background-color: white;}
-p[name="banner"]{width: 1334px; height: 150px; background-attachment: fixed; }
+div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334px; height: 150px; background-attachment: fixed; }
 
 
 * {margin:0px; padding:0px;}

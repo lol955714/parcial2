@@ -1,11 +1,13 @@
 body {background-color: white;}
 li{display: inline;background: white;width: 10000px;}
 nav{text-align: center;}
-header{text-align: center;}
+header{text-align: center;background-image: url("/media/imagen/fondo1.jpg");}
 p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
+p[name="diferente"]{background-color: yellow;}
 aside{float: left;width: 300px;padding-right: 50px;padding-right: 50px}
 aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
+section{background-color: blue;text-align: justify;}
 cartaPresentacion{background: black;}
 nombre{background-color: white;}
 contacto{background-color: white}

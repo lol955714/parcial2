@@ -44,6 +44,27 @@ li a:hover {
     background-color: red;
 }
 
+ul#menu-horizontal ul {
+display: none;
+position: relative;
+top: 24;
+left:0;
+margin:0;
+padding:0;
+background:#FFFFFF;
+}
+
+ul#menu-horizontal ul li {
+display: block !important;
+}
+
+ul#menu-horizontal li:hover ul{
+display: none;
+}
+
+ul#menu-horizontal li:hover ul{
+display: block;
+}
 
 /* footer */
 
@@ -62,6 +83,7 @@ footer .footer-above {
   padding-top: 50px;
   background-color: #2C3E50;
 }
+
 footer .footer-col {
   margin-bottom: 50px;
 }

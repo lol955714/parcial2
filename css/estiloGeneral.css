@@ -4,11 +4,11 @@ p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
 aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;clear: left;}
-div[name="banner"]{background-image: url(/media/imagen/banner2.png);}
+div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334px; height: 150px;}
 
 
 			
-			#header {margin:auto; width:500px; font-family:Arial, Helvetica, sans-serif;}
+			#header {margin:left; width:1000px; font-family:Arial, Helvetica, sans-serif;}
 			ul, ol {list-style:none;}
 			.nav > li {float:left; }
 			.nav li a {background-color:#000; color:#fff; text-decoration:none; padding:10px 12px; display:block;}

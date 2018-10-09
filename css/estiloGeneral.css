@@ -4,7 +4,7 @@ p{text-align: justify;padding-left: 50px;padding-right: 50px;width: 80%;}
 aside[name="banner"]{float: right;}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;clear: left;}
-div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334px; height: 150px;}
+div[name="banner"]{background-image: url(/media/imagen/banner2.png);}
 
 
 			
@@ -13,7 +13,7 @@ div[name="banner"]{background-image: url(/media/imagen/banner2.png); width: 1334
 			.nav > li {float:left; }
 			.nav li a {background-color:#000; color:#fff; text-decoration:none; padding:10px 12px; display:block;}
 			.nav li a:hover {background-color:#434343;}
-			.nav li ul {display:none; position:absolute; min-width:540px;}
+			.nav li ul {display:none; position:absolute; min-width:240px;}
 			.nav li:hover > ul {display:block;}
 			.nav li ul li {position:relative;}
 			.nav li ul li ul {	right:0px; top:0px;}

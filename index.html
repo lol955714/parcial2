@@ -98,11 +98,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<p>De niño no entendimos, pero no quita que podamos tratar de enseñar a los demás</p>
 		</article>
 
-
-		<article>
-			<video src="/media/video1.mp4" controls>
-  Tu navegador no implementa el elemento <code>video</code>.
+<video src="/media/video1.mp4" type="video/mp4"controls>
 </video>
+		<article>
+			<video autobuffer autoloop loop controls>
+				<source src="/media/video1.mp4">
+				<object type="video/mp4" data="/media/video1.mp4" width="320" height="240">
+				<param name="src" value="/media/video1.mp4">
+				<param name="autoplay" value="true">
+				<param name="autoStart" value="0">
+				<p><a href="/media/video1.mp4">Download this video file.</a></p>
+				</object>
+			</video>
 		</article>
 		
 	</section>

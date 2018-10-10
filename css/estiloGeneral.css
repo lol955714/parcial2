@@ -1,8 +1,8 @@
 body {background-image:url(../media/imagen/fondo.jpg);background-size: 100% 100%;background-attachment: fixed;}
-body {background-image:url(/media/imagen/fondo.jpg);}
+body {background-image:url(../media/imagen/fondo.jpg);}
 nav{text-align: center;}
 p{text-align: justify;padding-left: 50px;padding-right: 50px;}
-aside[name="banner"]{float: right;}
+aside[name="banner"]{float: right; width: 450px}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;clear: left;}
 div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 1333px; height: 150px;}

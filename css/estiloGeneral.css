@@ -12,13 +12,13 @@ h1{padding-left: 50px;padding-right: 50px;}
 h2{padding-left: 50px;padding-right: 50px;}
 h3{padding-left: 50px;padding-right: 50px;}
 div[name="imagen"]{text-align: center; width: 400px; height: 300px;}
-cartaPresentacion{background: gray;clear: both;}
-nombre{clear: both;}
-contacto{clear: both;}
-redes{clear: both;}
-facebook{clear: both;}
-twitter{clear: both;}
-googleplus{clear: both;}
+cartaPresentacion{background: gray;clear: both;display: list-item;display: block;}
+nombre{clear: both;display: block;}
+contacto{clear: both;display: block;}
+redes{clear: both;display: list-item;display: block;}
+facebook{clear: both;display: block;}
+twitter{clear: both;display: block;}
+googleplus{clear: both;display: block;}
 			
 			#header {margin:left; width:100%; font-family:Arial, Helvetica, sans-serif;}
 			ul, ol {list-style:none;}

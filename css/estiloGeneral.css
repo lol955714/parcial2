@@ -4,10 +4,14 @@ p{text-align: justify;padding-left: 50px;padding-right: 50px;}
 aside[name="banner"]{float: right; width: 450px}
 footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;clear: left;}
-div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 1333px; height: 150px;}
+div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 100%; height: 150px;}
 section{text-align: justify;clear: left;padding-top: 50px;}
-div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 1333px; height: 150px;}
+div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 100%; height: 150px;}
 div[name="video"]{text-align: center;}
+h1{padding-left: 50px;padding-right: 50px;}
+h2{padding-left: 50px;padding-right: 50px;}
+h3{padding-left: 50px;padding-right: 50px;}
+
 
 			
 			#header {margin:left; width:100%; font-family:Arial, Helvetica, sans-serif;}

@@ -16,9 +16,9 @@ cartaPresentacion{background: gray;}
 nombre{}
 contacto{}
 redes{}
-facebook{background-image: url(/media/imagen/fb.jpg);}
-twitter{background-image: url(/media/imagen/tw.png);}
-googleplus{background-image: url(/media/imagen/gp.png);}
+facebook{background-image: url(/media/imagen/fb.jpg);width: 125px;height: 125px;}
+twitter{background-image: url(/media/imagen/tw.png);width: 225px;height: 225px;}
+googleplus{background-image: url(/media/imagen/gp.png);width: 512px;height: 512pxpx;}
 			
 			#header {margin:left; width:100%; font-family:Arial, Helvetica, sans-serif;}
 			ul, ol {list-style:none;}

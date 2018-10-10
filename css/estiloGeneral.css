@@ -35,4 +35,15 @@ div[name="video"]{text-align: center;}
 			footer .footer-below {padding: 25px 0;background-color: #233140;}
 			footer p {text-align: center;}
 			footer ul {background-color: #333}
+
+
+
+			.formulario {display:block;margin:0 auto;width:510px;color: #666666;font-family:Arial;}
+			label {display:block;margin-top:20px;letter-spacing:1px;}
+			form {margin:0 auto;width:400px;}
+ 			input, textarea {width:380px;height:27px;background:#666666;border:2px solid #f6f6f6;padding:10px;
+ 				margin-top:5px;font-size:10px;color:#ffffff;}
+ 			textarea {height:150px;}
+ 			::placeholder { color: #cccc; }
+			#submit {width:85px;height:35px;border:none;margin-top:20px;cursor:pointer;}
 	

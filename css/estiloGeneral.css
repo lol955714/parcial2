@@ -15,6 +15,17 @@ p{font-family: Georgia, Serif;}
 
 
 
+
+cartaPresentacion{background: gray;clear: both;display: list-item;display: block;}
+nombre{clear: both;display: block;display: list-item;}
+contacto{clear: both;display: block;display: list-item;}
+redes{clear: both;display: list-item;display: block;}
+facebook{clear: both;display: block;display: list-item;}
+twitter{clear: both;display: block;display: list-item;}
+googleplus{clear: both;display: block;display: list-item;}
+usuario{display: list-item;}}
+enlace{display: list-item;}}
+
 			
 			#header {margin:left; width:100%; font-family:Arial, Helvetica, sans-serif;}
 			ul, ol {list-style:none;}

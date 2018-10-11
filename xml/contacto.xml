@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="../css/estiloGeneral.css" ?>
+<?xml-stylesheet type="text/css" href="/css/estiloGeneral.css" ?>
 <cartaPresentacion>
 	<nombre>Grupo 16</nombre>
 	<contacto>correo electrónico: grupo16tpi@gmail.com</contacto>
+	<redes>
+		<facebook>
+			<usuario>Juguetes artesanales</usuario>
+			<enlace>https://www.facebook.com/jugartesanal/</enlace>
+		</facebook>
+		<twitter>
+			<usuario>@jugueteartesa2</usuario>
+			<enlace>https://twitter.com/JuguetesArtesa2</enlace>
+		</twitter>
+		<googleplus>
+			<usuario>Juguete artesanal</usuario>
+			<enlace>https://plus.google.com/u/1/115846373259723147138</enlace>
+		</googleplus>
+	</redes>
 </cartaPresentacion>

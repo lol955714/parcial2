@@ -6,12 +6,13 @@ footer{clear: both;text-align: center;padding-top: 100px;}
 section{text-align: justify;clear: left;}
 div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 100%; height: 150px;}
 section{text-align: justify;clear: left;padding-top: 50px;}
-div[name="banner"]{background-image: url(../media/imagen/banner2.png); width: 100%; height: 150px;}
 div[name="video"]{text-align: center;}
 h1{padding-left: 50px;padding-right: 50px;}
 h2{padding-left: 50px;padding-right: 50px;}
 h3{padding-left: 50px;padding-right: 50px;}
 div[name="imagen"]{text-align: center; width: 400px; height: 300px;}
+p{font-family: Georgia, Serif;}
+
 
 
 			
